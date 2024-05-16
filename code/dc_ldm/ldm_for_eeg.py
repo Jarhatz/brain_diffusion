@@ -88,7 +88,7 @@ class cond_stage_model(nn.Module):
 
     # SimCLR Contrastive Loss function
     def simclr_loss(self, raw_eegs, img_embs, tau=0.10, sim='cos'):
-        # helpful tutorial: https://jamesmccaffrey.wordpress.com/2022/04/11/an-example-of-normalized-temperature-scaled-cross-entropy-loss/
+        # helpful: https://jamesmccaffrey.wordpress.com/2022/04/11/an-example-of-normalized-temperature-scaled-cross-entropy-loss/
         eeg_embs = self.mapping(raw_eegs)
         # eeg_embs: Shape(8, 768) dtype=float32
         # img_embs: Shape(7, 768) dtype=float32
