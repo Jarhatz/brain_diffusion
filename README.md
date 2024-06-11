@@ -1,5 +1,5 @@
-# Thought2Image-cv-proj
-Reconstructing Visual Semantics from Brain Waves
+# Brain Diffusion
+BrainDiffusion: Reconstructing Visual Semantics from Non-Invasive Neural Activity Readings
 
 The files that have been heavily modified / newly created are:
 ```
