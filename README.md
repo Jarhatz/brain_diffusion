@@ -119,4 +119,4 @@ Project Directory Structure:
 
 ## Acknowledgement
 
-This code is built upon the publicly available code [DreamDiffusion](https://github.com/bbaaii/DreamDiffusion/tree/main). Thanks these authors for making their excellent work and codes publicly available.
+This code is built upon the publicly available code [DreamDiffusion](https://github.com/bbaaii/DreamDiffusion/tree/main). Thanks to these authors for making their excellent work and codes publicly available.
